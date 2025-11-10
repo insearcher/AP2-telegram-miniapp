@@ -75,7 +75,7 @@ This project follows an incremental development approach with:
 - Vertical slices (each iteration = complete feature)
 - Regression testing after each change
 
-See [DEVELOPMENT_PLAN.md](../../DEVELOPMENT_PLAN.md) for full roadmap.
+See [DEVELOPMENT_PLAN.md](../docs/DEVELOPMENT_PLAN.md) for full roadmap.
 
 ## Current Status
 
@@ -85,10 +85,11 @@ See [DEVELOPMENT_PLAN.md](../../DEVELOPMENT_PLAN.md) for full roadmap.
 
 ## Documentation
 
-- [Development Plan](../../DEVELOPMENT_PLAN.md) - Full roadmap
-- [Tech Stack Analysis](../../TECH_STACK_ANALYSIS_REPORT.md) - Technical details
-- [Insights](../../INSIGHTS.md) - Best practices and learnings
-- [Quick Start Guide](../../QUICKSTART_DEVELOPMENT.md) - Getting started
+- [Development Plan](../docs/DEVELOPMENT_PLAN.md) - Full roadmap
+- [Tech Stack Analysis](../docs/TECH_STACK_ANALYSIS_REPORT.md) - Technical details
+- [Insights](../docs/INSIGHTS.md) - Best practices and learnings
+- [Quick Start Guide](../docs/QUICKSTART_DEVELOPMENT.md) - Getting started
+- [History](../docs/HISTORY.md) - Development history
 
 ## License
 
