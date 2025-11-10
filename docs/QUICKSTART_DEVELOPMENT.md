@@ -304,7 +304,7 @@ npm run build
 
 ### API Keys
 
-- **Google API Key**: Already in `.env` (AIzaSyD_RdloeXhbPiV-0itUsFm8fQxTzSAOj3M)
+- **Google API Key**: Get from https://aistudio.google.com/app/apikey and add to `.env`
 - **WalletConnect Project ID**: https://cloud.walletconnect.com/
 - **Infura API Key**: https://infura.io/
 - **Telegram Bot Token**: From @BotFather
