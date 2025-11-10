@@ -120,4 +120,4 @@ echo ""
 echo "All remote servers are starting."
 
 echo "Starting the Shopping Agent..."
-$UV_RUN_CMD --package ap2-samples adk web --host 0.0.0.0 $AGENTS_DIR
+$UV_RUN_CMD --package ap2-samples adk web --host 0.0.0.0 --port 8080 $AGENTS_DIR
