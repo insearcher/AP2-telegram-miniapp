@@ -19,6 +19,10 @@ export default defineConfig({
   server: {
     host: '0.0.0.0',
     port: 5173,
+    allowedHosts: [
+      '.ngrok-free.app', // Allow all ngrok hosts
+      '.ngrok.io', // Allow legacy ngrok hosts
+    ],
   },
   build: {
     outDir: 'dist',
